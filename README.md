@@ -1,4 +1,5 @@
-# Joanna Lamch landing page. Some information about me.
+# Joanna Lamch landing page. 
+# Some information about me.
 
 
 Landing Page Jekyll theme
