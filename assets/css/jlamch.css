@@ -1,0 +1,10 @@
+.aboutme{
+background-color: plum;
+}
+.aboutme h4{
+ text-align: center;
+}
+
+.jlshadow{
+    text-shadow: 1px 1px 2px black, 0 0 1em rgb(158, 106, 192), 0 0 0.2em rgb(102, 15, 114)
+}
