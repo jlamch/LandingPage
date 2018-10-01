@@ -146,7 +146,14 @@ icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
 project_button: Github
-
+social:
+  - title: twitter
+    url: https://twitter.com/JLamch
+  - title: github
+    url: https://github.com/jlamch
+  - title: linkedin
+    url: https://www.linkedin.com/in/joannalamch/  
+    
 github: https://github.com/jlamch
 medium: https://medium.com
 linkedin: https://www.linkedin.com/in/joannalamch/
