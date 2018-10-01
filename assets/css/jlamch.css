@@ -54,7 +54,7 @@ background-color: rgba(211, 198, 211, 0.767);
     }
 
     ul.banner-social-buttons > li {
-        display: inline-block;
+        display: block;
         margin-bottom: 20px;
         padding: 0;
     }
