@@ -13,14 +13,14 @@ parallax_image_one: assets/images/startup3.jpg # These are the images used for t
 parallax_image_two: assets/images/startup3.jpg
 
 project_one: WebAssembly and .NET
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_description: WebAssembly będą następną dużą rzeczą w świecie IT. Już teraz nie tylko jest o nich głośno ale zaczynają zmieniać oblicze aplikacji webowych.  Aplikacje webowe to przecież JavaScrip co to ma z .NETem i C# wspólnego? Microsoft eksperymentuje z razorem w przeglądarce czyli Blazor'em. Jednak nie tylko Blazor możliwy jest do uruchomienia jako WebAssembly, mamy też Ooui oraz Uno, a wszystko to oparte na Mono. Czyli .NET w przeglądarce i WebAssembly w pigułce. 
+project_one_url: https://github.com/jlamch/WebAssemblyAndDotNet
 project_one_icon: location_on
 
-project_two: DevOps
-project_two_description: Describe your project!
+project_two: Just a bit about DevOps on VSTS
+project_two_description: O DevOpsie z wykorzystaniem VSTSa. O co cały szum ostatnimi czasy, nowe słowo 'devops' dlaczego programista powinien wiedzieć o co biega i trochę o tym jak MS wspiera developerów - trochę nowości, trochę nerwów, trochę dobra.
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: images/webassembly_language_white_with_fiolet.png
+project_two_icon: webassembly_language_white_with_fiolet.png
 
 
 # project_three: Third Project
