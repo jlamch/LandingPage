@@ -151,12 +151,14 @@ colored: colored # Leave blank for black and white icons
 
 project_button: Github
 social:
-  - title: Twitter
+  - title: twitter
     url: https://twitter.com/JLamch
-  - title: Github
+  - title: github
     url: https://github.com/jlamch
-  - title: LinkedIn
+  - title: linkedin
     url: https://www.linkedin.com/in/joannalamch/  
+  - title: meetup
+    url: https://www.meetup.com/Śląska-Grupa-Microsoft-Meetup  
 
 github: https://github.com/jlamch
 medium: https://medium.com
