@@ -45,13 +45,13 @@ skills:
   - name: csharp
   - name: dot-net
   - name: typescript
-  - name: amazonwebservices
   - name: android
   - name: apple
-  - name: bitbucket
-  - name: chrome
+  #- name: chrome
   #- name: confluence
   - name: docker
+  3- name: amazonwebservices
+  - name: bitbucket
   - name: git
   - name: github
   - name: gitlab
@@ -59,9 +59,9 @@ skills:
   #- name: photoshop
   #- name: sourcetree
   - name: dot-net
-  - name: typescript
   - name: csharp
   - name: visualstudio
+
   #- name: ssh
   #- name: angularjs
   #- name: apache
@@ -151,11 +151,11 @@ colored: colored # Leave blank for black and white icons
 
 project_button: Github
 social:
-  - title: twitter
+  - title: Twitter
     url: https://twitter.com/JLamch
-  - title: github
+  - title: Github
     url: https://github.com/jlamch
-  - title: linkedin
+  - title: LinkedIn
     url: https://www.linkedin.com/in/joannalamch/  
 
 github: https://github.com/jlamch
