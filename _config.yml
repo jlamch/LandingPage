@@ -20,7 +20,7 @@ project_one_icon: location_on
 project_two: DevOps
 project_two_description: Describe your project!
 project_two_url: https://github.com/jameshamann/jekyll-material-theme
-project_two_icon: photo_camera
+project_two_icon: images/webassembly_language_white_with_fiolet.png
 
 
 # project_three: Third Project
@@ -34,7 +34,7 @@ project_two_icon: photo_camera
 # project_four_url: https://github.com/jameshamann/jekyll-material-theme
 # project_four_icon: restaurant
 
-portfolio_heading: Portfolio
+portfolio_heading: Speaker
 portfolio_type: cards
 
 syntax_highlighting: true
@@ -50,7 +50,7 @@ skills:
   #- name: chrome
   #- name: confluence
   - name: docker
-  3- name: amazonwebservices
+  #- name: amazonwebservices
   - name: bitbucket
   - name: git
   - name: github
