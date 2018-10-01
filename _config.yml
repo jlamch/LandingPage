@@ -41,34 +41,47 @@ syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
+  - name: visualstudio
+  - name: csharp
+  - name: dot-net
+  - name: typescript
   - name: amazonwebservices
   - name: android
+  - name: apple
+  - name: bitbucket
+  - name: chrome
+  #- name: confluence
+  - name: docker
+  - name: git
+  - name: github
+  - name: gitlab
+  - name: slack
+  #- name: photoshop
+  #- name: sourcetree
+  - name: dot-net
+  - name: typescript
+  - name: csharp
+  - name: visualstudio
+  #- name: ssh
   #- name: angularjs
   #- name: apache
   #- name: appcelerator
-  - name: apple
   #- name: atom
   #- name: babel
   #- name: backbonejs
-  - name: bitbucket
   #- name: bootstrap
   #- name: bower
   #- name: c
-  - name: chrome
   #- name: codeigniter
   #- name: coffescript
-  - name: confluence
   #- name: cplusplus
-  - name: csharp
   #- name: css3
   #- name: cucumber
   #- name: d3js
   #- name: debian
   #- name: devicon
   #- name: django
-  - name: docker
   #- name: doctrine
-  - name: dot-net
   #- name: drupal
   #- name: erlang
   #- name: facebook
@@ -76,9 +89,6 @@ skills:
   #- name: foundation
   #- name: gatling
   #- name: gimp
-  - name: git
-  - name: github
-  - name: gitlab
   #- name: go
   #- name: google
   #- name: gradle
@@ -105,7 +115,6 @@ skills:
   #- name: nodejs
   #- name: nodewebkit
   #- name: oracle
-  - name: photoshop
   #- name: php
   #- name: phpstorm
   #- name: protractor
@@ -121,19 +130,14 @@ skills:
   #- name: safari
   #- name: sass
   #- name: sequelize
-  - name: slack
-  - name: sourcetree
-  - name: ssh
   #- name: swift
   #- name: symfony
   #- name: tomcat
   #- name: travis
   #- name: trello
   #- name: twitter
-  - name: typescript
   #- name: ubuntu
   #- name: vim
-  - name: visualstudio
   #- name: vuejs
   #- name: webpack
   #- name: webstorm
@@ -153,7 +157,7 @@ social:
     url: https://github.com/jlamch
   - title: linkedin
     url: https://www.linkedin.com/in/joannalamch/  
-    
+
 github: https://github.com/jlamch
 medium: https://medium.com
 linkedin: https://www.linkedin.com/in/joannalamch/
