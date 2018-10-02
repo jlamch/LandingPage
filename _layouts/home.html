@@ -46,22 +46,22 @@
  </div>
 </div> -->
 
-
+<!-- 
 <div class="container" style="padding:20px;">
   <div id="blog" class="section scrollspy">
   <h3 style="text-align:center;">Blog</h3>
   {% include blog-feed.html %}
 </div>
-</div>
+</div> -->
 
 
 <div class="parallax-container valign-wrapper">
     <div class="section no-pad-bot">
       <div class="container">
           <h1 class="header center purple-text text-lighten-5 jlshadow">Z miłości do kodu</h1>
-          <h3 style="text-align:center;">Blogs</h3>
+          <h3 class="header col s12 purple-text text-lighten-4 light jlshadow portfolio-item">Blogs</h3>
           <!-- <div class="row center"> -->
-                <div id="externalblogs" class="section scrollspy">
+                <div id="externalblogs" class="section container">
               
                   {% include blogs.html %}
                 </div>
@@ -72,7 +72,21 @@
     <div class="parallax"><img src="{{site.parallax_image_two}}" alt="Unsplashed background img 3"></div>
   </div>
 
-
+<!--  <div id="index-banner" class="parallax-container">
+    <div class="section no-pad-bot">
+      <div class="container">
+        <br><br>
+        <h1 class="header center purple-text text-lighten-5 jlshadow">{{ site.title }}</h1>
+        <div class="row center">
+          <h5 class="header col s12 purple-text text-lighten-4 light jlshadow">{{ site.description }}</h5>
+        </div>
+                
+        <div class="container" style="padding:20px;">
+          <div id="skills" class="section scrollspy">
+          {% include aboutme.html %}
+        </div>
+        </div>
+        <br><br> -->
 <div class="container" style="padding:20px;">
   <div id="contact" class="section scrollspy">
   <h3 style="text-align:center;">Contact</h3>
