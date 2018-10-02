@@ -89,6 +89,10 @@ background-color: rgba(211, 198, 211, 0.767);
     margin-bottom: 30px;
 }
 
+.blog-portfolio{
+    margin-top: 50px;
+}
+
 .img-portfolio {
     margin: 0 auto;
 }
