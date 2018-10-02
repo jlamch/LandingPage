@@ -33,10 +33,42 @@
 <div class="container" style="padding:20px;">
   <div id="portfolio" class="section scrollspy">
 
-  <h3 style="text-align:center;">Speaking</h3>
+    <h3 style="text-align:center;">Speaking</h3>
     {% include speaking_portfolio.html %}
   </div>
 </div>
+
+
+<div class="parallax-container valign-wrapper">
+    <div class="section no-pad-bot container">
+      
+        <div clas="blog-portfolio-header">
+          <h1 class="header center purple-text text-lighten-5 jlshadow">Z miłości do kodu</h1>
+          <h3 class="header center purple-text text-lighten-4 light jlshadow">Blogs</h3>
+        </div>
+          
+          <div id="externalblogs" class="section blog-portfolio" >
+              {% include blogs.html %}
+          </div>
+
+          </div>
+    <div class="parallax"><img src="{{site.parallax_image_two}}" alt="Unsplashed background img 3"></div>
+  </div>
+
+
+<div class="container" style="padding:20px;">
+  <div id="contact" class="section scrollspy">
+    <h3 style="text-align:center;">Contact</h3>
+    {% include contact.html %}
+  </div>
+</div>
+
+
+
+
+{% include nav-burger.html %}
+
+{% include footer.html %}
 
   
 <!-- <div class="container" style="padding:20px;">
@@ -53,36 +85,3 @@
   {% include blog-feed.html %}
 </div>
 </div> -->
-
-
-<div class="parallax-container valign-wrapper">
-    <div class="section no-pad-bot container">
-      
-        <div clas="portfolio-item">
-          <h1 class="header center purple-text text-lighten-5 jlshadow">Z miłości do kodu</h1>
-          <h3 class="header center purple-text text-lighten-4 light jlshadow">Blogs</h3>
-        </div>
-          
-          <div id="externalblogs" class="section blog-portfolio" >
-          
-              {% include blogs.html %}
-          </div>
-
-          </div>
-    <div class="parallax"><img src="{{site.parallax_image_two}}" alt="Unsplashed background img 3"></div>
-  </div>
-
-
-<div class="container" style="padding:20px;">
-  <div id="contact" class="section scrollspy">
-  <h3 style="text-align:center;">Contact</h3>
-  {% include contact.html %}
-</div>
-</div>
-
-
-
-
-{% include nav-burger.html %}
-
-{% include footer.html %}
