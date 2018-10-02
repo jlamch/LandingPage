@@ -70,7 +70,7 @@ background-color: rgba(211, 198, 211, 0.767);
 
 .callout {
     display: table;
-    width: 100%;
+    width: 80%;
     height: 300px;
     /* color: #fff; */
     /* background: url(../img/blue-chakboard.png) no-repeat center center scroll; */
@@ -78,4 +78,21 @@ background-color: rgba(211, 198, 211, 0.767);
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+}
+
+
+.portfolio {
+    padding: 50px 0;
+}
+
+.portfolio-item {
+    margin-bottom: 30px;
+}
+
+.img-portfolio {
+    margin: 0 auto;
+}
+
+.img-portfolio:hover {
+    opacity: 0.8;
 }
